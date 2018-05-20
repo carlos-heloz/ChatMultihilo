@@ -1,0 +1,12 @@
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\bin\Debug\Chat.exe.config
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\bin\Debug\Chat.exe
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\bin\Debug\Chat.pdb
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\obj\Debug\Chat.exe
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Chat\obj\Debug\Chat.pdb
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\bin\Debug\Chat.exe.config
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\bin\Debug\Chat.exe
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\bin\Debug\Chat.pdb
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\obj\Debug\Chat.exe
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Chat\obj\Debug\Chat.pdb

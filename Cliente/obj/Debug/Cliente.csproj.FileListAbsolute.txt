@@ -1,0 +1,13 @@
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\bin\Debug\Cliente.exe
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\bin\Debug\Cliente.pdb
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\obj\Debug\Cliente.exe
+C:\Users\CarlosHdz\Desktop\MultiThread-Chat-master\Cliente\obj\Debug\Cliente.pdb
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\bin\Debug\Cliente.exe
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\bin\Debug\Cliente.pdb
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\obj\Debug\Cliente.exe
+C:\Users\CarlosHdz\Desktop\Chat Multihilo\Cliente\obj\Debug\Cliente.pdb
