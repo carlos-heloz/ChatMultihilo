@@ -7,7 +7,7 @@ class Cliente {
     private static TcpClient cliente;
     private static StreamReader sr;
     private static StreamWriter sw;
-    
+    private static StreamWriter ssw;
 
     static void Main(string[] args) {
         Console.Title = "Cliente";
